@@ -1,0 +1,13 @@
+/*==== 0.Base setting ====*/
+* {
+  box-sizing: border-box;
+}
+
+.genres-item {
+  border: 1px solid #DDDDDD;
+}
+
+.badge {
+  background-color: yellowgreen;
+  font-size: 9px;
+}
